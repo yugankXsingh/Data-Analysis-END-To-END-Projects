@@ -5,13 +5,13 @@
 
 > *Note: You may need to be signed into your institutional Microsoft account to view the dashboard.*
 
-##📌 Problem Statement
+## 📌 Problem Statement
 
 Banks today handle vast amounts of customer and financial data — ranging from personal details to credit history, deposits, loans, and advisor relationships. However, this information often sits in silos across multiple systems, making it challenging to generate integrated insights on client behavior, loan performance, deposit trends, and financial risks.
 
 The objective of this project was to consolidate multiple banking datasets, perform exploratory data analysis (EDA), and build an interactive Power BI dashboard that enables financial stakeholders to monitor KPIs such as loan-to-deposit ratios, deposit-to-loan ratios risk exposure, client segmentation, and advisor performance.
 
-##✅ Solution
+## ✅ Solution
 
 - This project demonstrates the end-to-end data analytics workflow:
 
@@ -37,7 +37,7 @@ This dataset contains information about banking clients, their accounts, loans, 
 - Investment Advisor Table → Mapping of clients to investment advisors
 
 ##
-#**🔄 Project Workflow**
+# **🔄 Project Workflow**
 
 **📥 Creating the MySQL Database**
 
@@ -82,7 +82,7 @@ This dataset contains information about banking clients, their accounts, loans, 
 <!-- Add gif or screenshot of published dashboard -->
 
 
-##🔍 Exploratory Data Analysis (EDA)
+## 🔍 Exploratory Data Analysis (EDA)
 
 **Summary Statistics**
 <img src="Readme_Images/SummaryStats.png">
@@ -116,7 +116,7 @@ This dataset contains information about banking clients, their accounts, loans, 
 
 
 
-##📊 Dashboard Structure
+## 📊 Dashboard Structure
 
 The Power BI Dashboard was structured into four main sections:
 
@@ -141,7 +141,7 @@ Key metrics: Deposit-to-Loan Ratio, % of Foreign Currency in Deposits.
 ![Home Page](/Readme_Images/4_SummaryPage.png)
 
 
-##📐 Data Modeling & DAX
+## 📐 Data Modeling & DAX
 
 The Power BI model established relationships across the four datasets (Clients, Gender, Advisors, Relationships).
 
@@ -186,7 +186,7 @@ The Power BI model established relationships across the four datasets (Clients, 
 
 
 ##
-#🏁 Conclusion
+# 🏁 Conclusion
 
 This project demonstrates the end-to-end journey of a data analysis project — from raw banking data to actionable insights.
 
