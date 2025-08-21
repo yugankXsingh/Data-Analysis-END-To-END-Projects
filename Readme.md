@@ -163,7 +163,7 @@ The Power BI model established relationships across the four datasets (Clients, 
 ![Home Page](/Readme_Images/MeasureTable.png)
 
 
-#**🛠️ Skills Showcased**
+# **🛠️ Skills Showcased**
 
 - **SQL (MySQL database creation, relational modeling)**
 
